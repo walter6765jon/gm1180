@@ -1,4 +1,4 @@
 <?php
-header("Location: https://hipages.com");
+header("Location: https://hipages.com.au/connect/mgpest");
 die();
 ?>
