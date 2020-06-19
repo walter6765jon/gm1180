@@ -1,5 +1,5 @@
 <?php
-header("Location: https://www.sunrisepetlodge.com/pet-boarding/");
+header("Location: https://ns-new.herokuapp.com/");
 die();
 ?>
-https://www.sunrisepetlodge.com/pet-boarding/
+
