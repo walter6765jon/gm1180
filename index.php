@@ -1,5 +1,5 @@
 <?php
-header("Location: https://ns-new.herokuapp.com/");
+header("Location: https://actmcaf.herokuapp.com");
 die();
 ?>
 
