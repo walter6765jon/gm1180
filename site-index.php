@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.247localplumber.com.au/services/");
+header("Location: https://profeet.co.uk/sports/ski-boot-lab/");
 die();
 ?>
