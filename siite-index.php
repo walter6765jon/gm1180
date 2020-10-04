@@ -1,4 +1,4 @@
 <?php
-header("Location: https://profeet.co.uk/sports/ski-boot-lab/");
+header("Location: https://www.gettingpersonal.co.uk/christmas-gifts");
 die();
 ?>
